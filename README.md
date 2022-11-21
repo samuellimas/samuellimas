@@ -12,7 +12,7 @@
 ### A Perseverança é o Secreto de Todos os Triunfos.
 
 Sou usuario da tecnologia no dia a dia, sempre tive curiosidade de saber como as coisas 
-funcionam por trás de um sistema. Este ano de 2022 estou tendo a oportunidade de me aprofundar nesta
+funcionam por trás de um sistema. Nste segundo semestre de 2022 estou tendo a oportunidade de me aprofundar nesta
 área.
 
 Realizando uma transição de carreira.
