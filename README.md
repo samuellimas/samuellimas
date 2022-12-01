@@ -10,7 +10,11 @@ Aluno do Bootcamp OrangTech+ - DIO
 
 ### A Perseverança é o Secreto de Todos os Triunfos. 😎
 
-![Samuell GitHub stats](https://github-readme-stats.vercel.app/api?username=samuellimas&show_icons=true&theme=dracula)
+<!-- GITHUB STATUS -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuellimas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellimas&layout=compact&langs_count=10&theme=dark"/>
+
 
 ## Tecnologias que estou Aprendendo  
 
